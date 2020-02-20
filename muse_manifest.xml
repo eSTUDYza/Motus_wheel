@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1582191721441">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1582197127062">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4175345779" ref="index"/>
-    <file name="liquid.css" crc="3852939557" ref="liquid"/>
+    <file name="index.css" crc="126355172" ref="index"/>
+    <file name="liquid.css" crc="61339967" ref="liquid"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:liquid"/>
@@ -11,6 +11,7 @@
     <file name="museconfig.js" crc="4286661555" ref="index:liquid"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:liquid"/>
     <file name="require.js" crc="7928878" ref="index:liquid"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:liquid"/>
   </folder>
   <folder name="images">
     <file name="wheel.png" crc="3876062956" seo="true" ref="index">
@@ -20,7 +21,18 @@
     <file name="wheel liq.png" crc="322513815" seo="true" ref="liquid">
       <caption webpage="liquid" alt=""/>
     </file>
+    <file name="hombre-trajeado-con-flechas-sobre-su-cabeza_1134-485.jpg" crc="3925778357" ref="index:liquid">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u327.png" crc="4228462957" ref="index"/>
+    <file name="u327-r.png" crc="4279268085" ref="index"/>
+    <file name="adult-agent-approval-684385.jpg" crc="114198685" ref="index:liquid">
+      <caption webpage="index" alt=""/>
+      <caption webpage="liquid" alt=""/>
+    </file>
+    <file name="u344.png" crc="112737383" ref="liquid"/>
+    <file name="u344-r.png" crc="48609350" ref="liquid"/>
   </folder>
-  <file name="index.html" crc="184519614" seo="true" mt="1582191700618" redirect="true"/>
-  <file name="liquid.html" crc="368600630" seo="true" mt="1582191708523" redirect="true"/>
+  <file name="index.html" crc="4155915879" seo="true" mt="1582197052386" redirect="true"/>
+  <file name="liquid.html" crc="71181567" seo="true" mt="1582197090835" redirect="true"/>
 </manifest>
