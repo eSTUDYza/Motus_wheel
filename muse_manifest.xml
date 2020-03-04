@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1583322184607">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1583323824175">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="m-sure.css" crc="246092310" ref="m-sure"/>
-    <file name="liquid.css" crc="3786959660" ref="liquid"/>
+    <file name="m-sure.css" crc="457481034" ref="m-sure"/>
+    <file name="liquid.css" crc="218212456" ref="liquid"/>
     <file name="index.css" crc="536610225" ref="index"/>
-    <file name="58-fleet.css" crc="4290913008" ref="58-fleet"/>
-    <file name="motorhappy.css" crc="4284864774" ref="motorhappy"/>
+    <file name="58-fleet.css" crc="3956907531" ref="58-fleet"/>
+    <file name="motorhappy.css" crc="4270338691" ref="motorhappy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:liquid:motorhappy:58-fleet:m-sure"/>
@@ -23,6 +23,7 @@
     <file name="blank.gif" crc="4208392903" ref="index:liquid:motorhappy:58-fleet:m-sure"/>
     <file name="hombre-trajeado-con-flechas-sobre-su-cabeza_1134-485.jpg" crc="3925778357" ref="index:liquid:motorhappy:58-fleet:m-sure">
       <caption webpage="index" alt=""/>
+      <caption webpage="liquid" alt=""/>
     </file>
     <file name="u327.png" crc="4228462957" ref="index"/>
     <file name="u327-r.png" crc="4279268085" ref="index"/>
@@ -55,8 +56,8 @@
     </file>
   </folder>
   <file name="index.html" crc="201007488" seo="true" mt="1583322026483" redirect="true"/>
-  <file name="liquid.html" crc="3814141153" seo="true" mt="1583321373102" redirect="true"/>
-  <file name="motorhappy.html" crc="525167160" seo="true" mt="1583321384981" redirect="true"/>
-  <file name="58-fleet.html" crc="3799717939" seo="true" mt="1583321390729" redirect="true"/>
-  <file name="m-sure.html" crc="3893344523" seo="true" mt="1583321404002" redirect="true"/>
+  <file name="liquid.html" crc="174944928" seo="true" mt="1583323722313" redirect="true"/>
+  <file name="motorhappy.html" crc="309707923" seo="true" mt="1583323733313" redirect="true"/>
+  <file name="58-fleet.html" crc="332174478" seo="true" mt="1583323762342" redirect="true"/>
+  <file name="m-sure.html" crc="189934752" seo="true" mt="1583323790668" redirect="true"/>
 </manifest>
