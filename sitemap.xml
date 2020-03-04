@@ -15,7 +15,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://motus.com/images/wheel%20liq.png</image:loc>
+      <image:loc>http://motus.com/images/liquid%20wheel.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -33,7 +33,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://motus.com/images/58%20wheel.png</image:loc>
+      <image:loc>http://motus.com/images/58%20fleet%20wheel.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -42,7 +42,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://motus.com/images/msure%20wheel.png</image:loc>
+      <image:loc>http://motus.com/images/m-sure%20wheel.png</image:loc>
     </image:image>
   </url>
 </urlset>
