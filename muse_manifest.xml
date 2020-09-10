@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1599724072593">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1599726100619">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="m-sure.css" crc="3794786280" ref="m-sure"/>
     <file name="liquid.css" crc="11150812" ref="liquid"/>
-    <file name="index.css" crc="3842109559" ref="index"/>
+    <file name="index.css" crc="365282195" ref="index"/>
     <file name="58-fleet.css" crc="4071598611" ref="58-fleet"/>
     <file name="motorhappy.css" crc="4010584834" ref="motorhappy"/>
   </folder>
@@ -55,7 +55,7 @@
       <caption webpage="m-sure" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3935210987" seo="true" mt="1599717799029" redirect="true"/>
+  <file name="index.html" crc="3972941116" seo="true" mt="1599726078265" redirect="true"/>
   <file name="liquid.html" crc="4262237907" seo="true" mt="1593525640737" redirect="true"/>
   <file name="motorhappy.html" crc="500980998" seo="true" mt="1593525669165" redirect="true"/>
   <file name="58-fleet.html" crc="523611382" seo="true" mt="1593525688289" redirect="true"/>
